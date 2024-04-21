@@ -13,6 +13,8 @@ The sensors are:
 * Risk of fire
 * Fire Prohibition
 
+The risk sensor returns a risk index value. It has a text description of the value as an attribute but if you want to see a list of all the avalable values you can do so at https://api.msb.se/brandrisk/v2/RiskLevels/sv. This could be useful when writing automations.
+
 I have started the process of getting this repo included in the default HACS library but for now you have to add it to your HACS using [these instructions](https://hacs.xyz/docs/faq/custom_repositories/)
 
 After installing the integration using HACS and restarting your server you simply add it by clicking the button below or by going to Devices & Services and adding it from there.
