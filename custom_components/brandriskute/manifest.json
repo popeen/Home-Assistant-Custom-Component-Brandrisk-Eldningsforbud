@@ -1,0 +1,10 @@
+{
+  "domain": "brandriskute",
+  "name": "Brandrisk & Eldningsförbud",
+  "codeowners": ["@popeen"],
+  "config_flow": true,
+  "documentation": "https://github.com/popeen/Home-Assistant-Custom-Component-Brandrisk-Eldningsforbud",  
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/popeen/Home-Assistant-Custom-Component-Brandrisk-Eldningsforbud/issues",
+  "version": "24.04.1"
+}

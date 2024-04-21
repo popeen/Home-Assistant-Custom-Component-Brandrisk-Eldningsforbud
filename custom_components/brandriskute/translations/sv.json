@@ -1,0 +1,20 @@
+{
+    "config": {
+        "abort": {
+            "already_configured": "Redan konfigurerad"
+        },
+        "error": {
+            "unknown": "Okänt fel",
+            "invalid_coordinates": "Felaktiga koordinater"
+        },
+        "step": {
+            "user": {
+                "data": {
+                    "latitude": "Latitud",
+                    "longitude": "Longitud",
+                    "name": "Namn"
+                }
+            }
+        }
+   }
+}
