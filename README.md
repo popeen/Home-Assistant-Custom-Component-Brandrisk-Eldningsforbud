@@ -13,7 +13,7 @@ The sensors are:
 * Risk of fire
 * Fire Prohibition
 
-This repo supports HACS installation but is not in the default library so you must add it yourself, you can see how to do that [here](https://hacs.xyz/docs/faq/custom_repositories/)
+I have started the process of getting this repo included in the default HACS library but for now you have to add it to your HACS using [these instructions](https://hacs.xyz/docs/faq/custom_repositories/)
 
 After installing the integration using HACS and restarting your server you simply add it by clicking the button below or by going to Devices & Services and adding it from there.
 
